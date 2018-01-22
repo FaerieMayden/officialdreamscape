@@ -41,7 +41,7 @@ body, html {
     z-index: 1;
     top: 0;
     left: 0;
-    background-color: #111;
+    background-color: #aec6cf;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -118,8 +118,8 @@ function contentGame() {
 
 
 <!-- Footer -->
-<footer class="w3-row w3-center w3-black w3-padding-64">
-  <a href="#where-dreams-come-true" class="w3-button w3-purple"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
+<footer class="w3-row w3-center w3-navy w3-padding-64">
+  <a href="#where-dreams-come-true" class="w3-button w3-light-blue"><i class="fa fa-arrow-up w3-margin-right"></i>Back to Top</a>
 </footer>
  
 

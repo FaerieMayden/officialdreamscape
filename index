@@ -23,7 +23,7 @@ body, html {
 }
 /* First image (Logo. Full height) */
 .bgimg-1 {
-    background-image: url('https://raw.githubusercontent.com/jkim0036/EcoGame/master/whitepass1.jpg');
+    background-image: url('');
     min-height: 100%;
 }
 .w3-wide {letter-spacing: 10px;}
@@ -79,7 +79,7 @@ function closeNav() {
 }
     
 function contentGame() {
-  document.getElementById("bodycontent").innerHTML = "<h2>Environmental Conservation Objective Game</h2><b><h3></h3></b>";  
+  document.getElementById("bodycontent").innerHTML = "<h2></h2><b><h3></h3></b>";  
   closeNav();
 }
 </script>

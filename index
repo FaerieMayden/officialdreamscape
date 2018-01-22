@@ -89,14 +89,14 @@ function contentGame() {
 <!-- Navbar (sit on top) -->
 <div id="mySidenav" class="sidenav">
   <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-  <img src="" height = "25" width = "56"></img><a href=".">-</a>
-  <img src="" height = "25" width = "56"></img><a href="">-</a>
-   <!-- <a href="javascript:void(0)" onclick="contentGame()">-</a> -->
- <img src="" height = "25" width = "56"></img><a href="">-</a>
-  <img src="" height = "25" width = "56"></img><a href="">-</a>
-  <img src="" height = "25" width = "56"></img><a href="">-</a>
-  <img src="" height = "25" width = "56"></img><a href="">-*</a> 
-  <img src="" height = "25" width = "56"></img><a href="">-</a>
+  <img src="" height = "25" width = "56"></img><a href=".">Home Page</a>
+  <img src="" height = "25" width = "56"></img><a href="">About the Creators</a>
+   <!-- <a href="javascript:void(0)" onclick="contentGame()"></a> -->
+ <img src="" height = "25" width = "56"></img><a href="">About the Game</a>
+  <img src="" height = "25" width = "56"></img><a href="">Contact Us!</a>
+  <img src="" height = "25" width = "56"></img><a href="">Donate!</a>
+  <img src="" height = "25" width = "56"></img><a href="">Gallery</a> 
+  <img src="" height = "25" width = "56"></img><a href="">Other Projects</a>
 </div>
 
   <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
